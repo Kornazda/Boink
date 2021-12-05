@@ -1,0 +1,47 @@
+body
+{
+    background-color: #E0E4CC;
+}
+
+h1
+{
+    background-color: rgb(66, 113, 214);
+    color:#581845;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+    border: 10px dotted brown;
+    margin: 0xp;
+}
+
+pre
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(82, 53, 184);
+    font-size: 18px;
+    text-align: left;
+}
+
+h2
+{
+    background-color: rgb(66, 113, 214);
+    color:#581845;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+    border: 5px dotted brown;
+    margin: 0xp;
+}
+
+
+a:visited
+{
+    color: #5c18a8
+}
+
+a:hover
+{
+    color: darkred;
+}
+a:active 
+{
+    color:darkslategrey;
+}
